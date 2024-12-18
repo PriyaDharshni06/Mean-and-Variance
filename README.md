@@ -1,3 +1,6 @@
+# 24900865
+# NAME: PRIYA DHARSHNI.S
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -49,9 +52,13 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+![image](https://github.com/user-attachments/assets/1deffcb1-a02f-4bb3-8ed3-8140711302a2)
+
 
 
 # Output : 
+
+![image](https://github.com/user-attachments/assets/f5f8d4a0-df8b-4168-a505-dfac7477127d)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
