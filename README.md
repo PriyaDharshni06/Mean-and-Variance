@@ -1,3 +1,4 @@
+24900865
 #  Mean and variance of a discrete  distribution
 
 
