@@ -1,4 +1,4 @@
-# NAME: PRIYA DHARSHNI.S
+#  NAME: PRIYA DHARSHNI.S
 # REG NO:24900865
 # EXP-1
 #  Mean and variance of a discrete  distribution
